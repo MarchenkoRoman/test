@@ -119,3 +119,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+# EMAIL settings
+EMAIL_HOST = 'smtp.econom-apteka.ks.ua'
+EMAIL_PORT = 2525
+
+
